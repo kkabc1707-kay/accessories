@@ -1,0 +1,6 @@
+{
+  "name": "Leisure Loopz",
+  "description": "Discover handmade crochet bouquets, bags, accessories and custom creations from Leisure Loopz. Handmade with love in Mumbai and shipped across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
